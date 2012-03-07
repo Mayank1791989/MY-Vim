@@ -272,7 +272,7 @@ let g:neocomplcache_omni_patterns.cpp = '\h\w*\%(\.\|->\)\h\w*\|\h\w*::'
 "             Nerd Tree Settings 
 "=========================================================="
 
-    map <C-f> :NERDTreeToggle<CR>
+    map <Leader>f :NERDTreeToggle<CR>
 
 "=========================================================="
 "            EnhancedCommentify Settings 
