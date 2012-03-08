@@ -11,7 +11,7 @@ endif
 let g:colors_name = "Clouds_Midnight"
 
 hi Cursor           guifg=NONE    guibg=#7da5dc gui=NONE
-hi Visual           guifg=NONE    guibg=#000000 gui=NONE
+hi Visual           guifg=NONE    guibg=#111111 gui=NONE
 hi CursorLine       guifg=NONE    guibg=#1f1f1f gui=NONE
 hi CursorColumn     guifg=NONE    guibg=#1f1f1f gui=NONE
 hi ColorColumn      guifg=NONE    guibg=#1f1f1f gui=NONE
@@ -22,8 +22,8 @@ hi StatusLine       guifg=#929292 guibg=#303030 gui=bold
 hi StatusLineNC     guifg=#929292 guibg=#303030 gui=NONE
 
 "search menu
-hi Pmenu            guifg=NONE 	  guibg=#1f1f1f gui=NONE
-hi PmenuSel         guifg=#ffffff    guibg=#048CC0 gui=NONE
+hi Pmenu            guifg=NONE   guibg=#333333   gui=NONE
+hi PmenuSel         guifg=#ffffff    guibg=#048CC0   gui=NONE
 
 hi IncSearch        guifg=NONE    guibg=#413a2f gui=NONE
 hi Search           guifg=NONE    guibg=#413a2f gui=NONE
