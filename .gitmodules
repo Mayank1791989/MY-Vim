@@ -26,10 +26,6 @@
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
 	ignore = dirty
-[submodule "bundle/smooth_scroll"]
-	path = bundle/smooth_scroll
-	url = https://github.com/ichizok/Smooth-Scroll.git
-	ignore = dirty
 [submodule "bundle/tcomment"]
 	path = bundle/tcomment
 	url = https://github.com/tomtom/tcomment_vim.git
