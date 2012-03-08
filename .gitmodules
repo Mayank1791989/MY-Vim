@@ -73,3 +73,6 @@
 [submodule "bundle/neocomplcache_snippets-complete"]
 	path = bundle/neocomplcache_snippets-complete
 	url = https://github.com/Shougo/neocomplcache-snippets-complete.git
+[submodule "bundle\\jsbeautify"]
+	path = bundle\\jsbeautify
+	url = https://github.com/vim-scripts/jsbeautify.git
